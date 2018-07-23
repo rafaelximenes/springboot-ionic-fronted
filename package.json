@@ -36,8 +36,7 @@
     "typescript": "~2.6.2"
   },
   "config": {
-  "ionic_source_map": "source-map"
+    "ionic_source_map": "source-map"
   },
   "description": "An Ionic project"
-  
 }
